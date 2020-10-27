@@ -1,34 +1,34 @@
 {
-	"name": "zunda",
-	"displayName": "Zunda",
-	"description": "Zunda is a dark theme for vscode with green and blue.",
-	"version": "0.0.5",
-	"publisher": "Matcha",
-	"license": "MIT",
-	"repository": "https://github.com/MatchaScript/zunda",
-	"icon": "icon.png",
-	"keywords": [
-        "dark",
-        "black",
-        "theme"
-    ],
-	"galleryBanner": {
-		"color": "#004030",
-		"theme": "dark"
-	},
-	"engines": {
-		"vscode": "^1.33.0"
-	},
-	"categories": [
-		"Themes"
-	],
-	"contributes": {
-		"themes": [
-			{
-				"label": "Zunda",
-				"uiTheme": "vs-dark",
-				"path": "./themes/zunda-color-theme.json"
-			}
-		]
-	}
+  "name": "zunda",
+  "displayName": "Zunda",
+  "description": "Zunda is a dark theme for vscode with blue.",
+  "version": "0.0.5",
+  "publisher": "Matcha",
+  "license": "MIT",
+  "repository": "https://github.com/MatchaScript/zunda",
+  "icon": "https://github.com/MatchaScript/zunda/blob/master/icon.png",
+  "keywords": [
+    "dark",
+    "black",
+    "theme"
+  ],
+  "galleryBanner": {
+    "color": "#004030",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.33.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Zunda",
+        "uiTheme": "vs-dark",
+        "path": "./themes/zunda-color-theme.json"
+      }
+    ]
+  }
 }
