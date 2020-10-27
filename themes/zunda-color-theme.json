@@ -6,7 +6,7 @@
     "window.activeBorder": "#fff6",
     //menu
     "menu.background": "#2c2c2c",
-    "menu.border": "#fff3",
+    "menu.border": "#2B2B2B",
     "menu.selectionBackground": "#ffffff1a",
     //titlebar
     "titleBar.activeBackground": "#000000",
@@ -177,7 +177,7 @@
     //statusbar
     "statusBar.background": "#1e1e1e",
     "statusBar.foreground": "#ffffff",
-    "statusBar.border": "#fff3",
+    "statusBar.border": "#2B2B2B",
     "statusBar.debuggingBackground": "#1F1F1F",
     "statusBar.debuggingForeground": "#ffffff",
     "statusBar.debuggingBorder": "#1F1F1F",
