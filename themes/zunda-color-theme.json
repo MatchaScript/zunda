@@ -83,7 +83,7 @@
     "editorHoverWidget.border": "#0000005c",
     "debugExceptionWidget.background": "#1e1e1e",
     "debugExceptionWidget.border": "#0000005c",
-    "editorMarkerNavigation.background": "#787aff33",
+    "editorMarkerNavigation.background": "#1e1e1e",
     "editorMarkerNavigationError.background": "#fa114f2b",
     "editorMarkerNavigationWarning.background": "#ffe62024",
     //peek
