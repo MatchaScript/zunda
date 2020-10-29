@@ -1,3 +1,7 @@
+## Version 0.0.7
+
+- Fixed: Peek view color is not right
+
 ## Version 0.0.6
 
 - Fixed: ansiBrightBlack color is the same as the background
